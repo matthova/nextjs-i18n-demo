@@ -5,5 +5,8 @@
     },
     "AboutPage": {
         "description": "About all the things"
+    },
+    "SalePage": {
+        "description": "omg a sale"
     }
 }

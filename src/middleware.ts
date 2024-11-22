@@ -5,5 +5,10 @@ export default createMiddleware(routing);
 
 export const config = {
     // Match only internationalized pathnames
-    matcher: ['/', '/(en|es)/:path*']
+    matcher: [
+        '/',
+        '/(en|es)/:path*',
+        // dont serve api or any nextjs utility routes
+        '/((?!api|_next|_vercel|.*\\..*).*)',
+    ]
 };

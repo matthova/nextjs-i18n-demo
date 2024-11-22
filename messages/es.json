@@ -1,0 +1,12 @@
+{
+    "HomePage": {
+        "title": "Hola mundo!",
+        "about": "Ir a la página Sobre"
+    },
+    "AboutPage": {
+        "description": "Sobre todas las cosas"
+    },
+    "SalePage": {
+        "description": "omg un sale"
+    }
+}

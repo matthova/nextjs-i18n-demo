@@ -1,12 +1,13 @@
 {
-    "HomePage": {
-        "title": "Hola mundo!",
-        "about": "Ir a la página Sobre"
-    },
-    "AboutPage": {
-        "description": "Sobre todas las cosas"
-    },
-    "SalePage": {
-        "description": "omg un sale"
-    }
+  "HomePage": {
+    "title": "Hola mundo!",
+    "about": "Ir a la página Sobre",
+    "github": "Revisa el repositorio de GitHub <link>aquí</link>"
+  },
+  "AboutPage": {
+    "description": "Sobre todas las cosas"
+  },
+  "SalePage": {
+    "description": "omg un sale"
+  }
 }

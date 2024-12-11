@@ -1,12 +1,13 @@
 {
-    "HomePage": {
-        "title": "Hello world!",
-        "about": "Go to the about page"
-    },
-    "AboutPage": {
-        "description": "About all the things"
-    },
-    "SalePage": {
-        "description": "omg a sale"
-    }
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page",
+    "github": "Check out the github repo <link>here</link>"
+  },
+  "AboutPage": {
+    "description": "About all the things"
+  },
+  "SalePage": {
+    "description": "omg a sale"
+  }
 }
